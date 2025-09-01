@@ -9,10 +9,6 @@
 - 📫 How to reach me: **isabokecliff@gmail.com** | +254 724 716 352
 - 📄 Know about my experiences: [View my CV](#professional-summary)
 
-## 🚀 Featured Projects
-- [**CI/CD Demo Project**](https://github.com/CliffordIsaboke/cicd-demo-project): A practical demonstration of modern CI/CD pipeline automation.
-- [**M-Pesa Credit Score Demo**](https://github.com/CliffordIsaboke/mpesa-credit-score-demo): An innovative AI model for inclusive credit scoring using alternative data.
-
 # 💻 Technical Stack:
 
 ## **Cloud & Infrastructure**
