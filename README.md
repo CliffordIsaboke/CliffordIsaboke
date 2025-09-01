@@ -59,10 +59,6 @@
 
 <br/>
 
-# 📜 Professional Summary
-> **Highly innovative and visionary ICT Executive and Fintech Infrastructure Architect** with proven national-scale leadership in driving transformative digital infrastructure. Spearheaded the end-to-end development and rollout of a cloud-native fintech platform, directly impacting **40+ branches** and delivering **88.75% revenue growth**, **35% cost reduction**, and **60% faster onboarding**. A champion for **scalable, inclusive technology**, dedicated to advancing the tech ecosystem through technical leadership, mentorship, and public contribution.
-
-
 ## 🌐 Socials & Publications:
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cliffordisaboke)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) <!-- Pro Tip: Add your actual LinkedIn URL here! -->
