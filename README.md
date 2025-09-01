@@ -60,5 +60,5 @@
 
 ## 🌐 Socials & Publications:
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cliffordisaboke)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/) <!-- Pro Tip: Add your actual LinkedIn URL here! -->
+[![Coder Legion](https://img.shields.io/badge/Coder_Legion-000000?style=for-the-badge&logo=coderlegion&logoColor=white)](https://coderlegion.com/user/CliffordIsaboke)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabokecliff@gmail.com)
