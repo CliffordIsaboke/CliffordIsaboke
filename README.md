@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Clifford Isaboke Nyabayo</h1>
-<h3 align="center">DevOps Executive | Fintech Infrastructure Architect</h3>
+<h3 align="center">DevOps Executive | Cloud Infrastructure Architect</h3>
 
 # 💫 About Me:
-- 🔭 I’m championing the build and national rollout of a **cloud-native fintech platform** at **Demulla Investment Limited**.
-- 🌱 I’m deeply exploring **AI/ML for financial inclusion** and advanced **DevSecOps practices**.
-- 👯 I’m looking to collaborate on **open-source projects that drive financial inclusion** in emerging markets.
-- 💬 Ask me about **DevSecOps, Cloud-Native Architecture, Fintech Scalability, CI/CD, and AI-powered credit scoring**.
+- 🔭 I'm currently leading large-scale **cloud-native digital transformation** initiatives in the financial technology sector.
+- 🌱 I'm continuously exploring **cutting-edge DevSecOps practices** and **AI/ML applications** for business innovation.
+- 👯 I'm interested in collaborating on **open-source projects** that solve real-world problems in emerging markets.
+- 💬 Ask me about **Cloud Architecture, DevOps Transformation, Infrastructure Automation, and Scalable System Design**.
 - 📫 How to reach me: **isabokecliff@gmail.com** | +254 734 609 454
 
 # 💻 Technical Stack:
