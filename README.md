@@ -48,12 +48,18 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+# 📊 GitHub Stats:
+<!-- The stats show your commitment to public contribution and open-source ethos, which is a huge plus from your CV. -->
+| |
+| - |
+| <a href="https://github.com/CliffordIsaboke"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliffordIsaboke&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Clifford's most used languages" /></a> |
+| <a href="https://github.com/CliffordIsaboke"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CliffordIsaboke&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="Clifford's github stats" /></a> | |
+| <a href="https://github.com/CliffordIsaboke"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CliffordIsaboke&theme=dracula&hide_border=false" alt="Clifford's commit streak" /></a> |
 
 <br/>
 
 # 📜 Professional Summary
 > Highly innovative and visionary ICT Executive and Fintech Infrastructure Architect with a proven track record in leading large-scale digital transformation initiatives. Spearheaded the end-to-end development and national rollout of a transformative cloud-native fintech platform, significantly expanding operational reach and driving substantial revenue growth and cost efficiency. A champion for scalable, inclusive technology, dedicated to advancing the tech ecosystem through technical leadership, strategic mentorship, and public contribution.
-
 
 ## 🌐 Socials & Publications:
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cliffordisaboke)
