@@ -6,7 +6,7 @@
 - 🌱 I’m deeply exploring **AI/ML for financial inclusion** and advanced **DevSecOps practices**.
 - 👯 I’m looking to collaborate on **open-source projects that drive financial inclusion** in emerging markets.
 - 💬 Ask me about **DevSecOps, Cloud-Native Architecture, Fintech Scalability, CI/CD, and AI/ML**.
-- 📫 How to reach me: **isabokecliff@gmail.com** | +254 724 716 352
+- 📫 How to reach me: **isabokecliff@gmail.com** | +254 734 609 454
 - 📄 Know about my experiences: [View my CV](#professional-summary)
 
 # 💻 Technical Stack:
