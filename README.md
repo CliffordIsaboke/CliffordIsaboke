@@ -8,7 +8,6 @@
 - 💬 Ask me about **DevSecOps, Cloud-Native Architecture, Fintech Scalability, CI/CD, and AI-powered credit scoring**.
 - 📫 How to reach me: **isabokecliff@gmail.com** | +254 724 716 352
 - 📄 Know about my experiences: [View my CV](#professional-summary)
-- ⚡ Fun fact: I architected a system that helped scale a company to **40+ branches in under 8 months**.
 
 ## 🚀 Featured Projects
 - [**CI/CD Demo Project**](https://github.com/CliffordIsaboke/cicd-demo-project): A practical demonstration of modern CI/CD pipeline automation.
