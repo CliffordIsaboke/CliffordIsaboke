@@ -26,12 +26,15 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## **CI/CD & DevSecOps**
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/argocd-%23EF2B5D.svg?style=for-the-badge&logo=argo&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Chef](https://img.shields.io/badge/chef-%23F09820.svg?style=for-the-badge&logo=chef&logoColor=white)
+![Puppet](https://img.shields.io/badge/puppet-%23FFAE1A.svg?style=for-the-badge&logo=puppet&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E98CD)
+![Trivy](https://img.shields.io/badge/trivy-%231C2E45.svg?style=for-the-badge&logo=aqua-security&logoColor=white)
 
 ## **AI/ML & Data**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
