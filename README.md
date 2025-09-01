@@ -54,6 +54,10 @@
 
 <br/>
 
+# 📜 Professional Summary
+> Highly innovative and visionary ICT Executive and Fintech Infrastructure Architect with a proven track record in leading large-scale digital transformation initiatives. Spearheaded the end-to-end development and national rollout of a transformative cloud-native fintech platform, significantly expanding operational reach and driving substantial revenue growth and cost efficiency. A champion for scalable, inclusive technology, dedicated to advancing the tech ecosystem through technical leadership, strategic mentorship, and public contribution.
+
+
 ## 🌐 Socials & Publications:
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cliffordisaboke)
 [![Coder Legion](https://img.shields.io/badge/Coder_Legion-000000?style=for-the-badge&logo=coderlegion&logoColor=white)](https://coderlegion.com/user/CliffordIsaboke)
