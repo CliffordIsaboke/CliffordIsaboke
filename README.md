@@ -6,7 +6,7 @@
 - 🌱 I'm continuously exploring **cutting-edge DevSecOps practices** and **AI/ML applications** for business innovation.
 - 👯 I'm interested in collaborating on **open-source projects** that solve real-world problems in emerging markets.
 - 💬 Ask me about **Cloud Architecture, DevOps Transformation, Infrastructure Automation, and Scalable System Design**.
-- 📫 How to reach me: **isabokecliff@gmail.com** | +254 734 609 454
+- 📫 How to reach me: **isabokecliff@gmail.com**
 
 # 💻 Technical Stack:
 
