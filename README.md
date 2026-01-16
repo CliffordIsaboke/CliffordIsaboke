@@ -12,7 +12,7 @@ designing, deploying, and operating **production-grade cloud infrastructure and 
 for fintech and enterprise environments.
 
 I specialize in building **secure, scalable, and highly available AWS EKS platforms**
-using **Terraform (Infrastructure as Code)**, **Docker**, and **CI/CD pipelines**.
+using **Terraform (IaC)**, **Docker**, and **CI/CD pipelines**.
 I have owned **production systems end-to-end**, including deployments, monitoring,
 incident response, and cost optimization.
 
