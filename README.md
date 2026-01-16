@@ -51,7 +51,7 @@ incident response, and cost optimization.
 
 ---
 
-## 🚀 What You’ll Find in My GitHub
+## What You’ll Find in My GitHub
 
 This GitHub contains **production-style DevOps projects**, including:
 
@@ -70,7 +70,7 @@ These projects reflect **real-world production DevOps practices**, not tutorials
 
 ---
 
-## 📌 Key DevOps Responsibilities I’ve Owned
+## Key DevOps Responsibilities I’ve Owned
 
 - Designing AWS VPC networking (public/private subnets, NAT gateways, security groups)
 - Operating production Kubernetes (EKS) clusters
@@ -81,7 +81,7 @@ These projects reflect **real-world production DevOps practices**, not tutorials
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 I actively contribute to DevOps, Kubernetes, and infrastructure projects.
 My repositories demonstrate **consistent hands-on work**, experimentation,
@@ -89,7 +89,7 @@ and production-focused engineering.
 
 ---
 
-## 🌐 Writing & Community
+## Writing & Community
 
 - Dev.to: https://dev.to/cliffordisaboke
 - Coder Legion: https://coderlegion.com/user/CliffordIsaboke
